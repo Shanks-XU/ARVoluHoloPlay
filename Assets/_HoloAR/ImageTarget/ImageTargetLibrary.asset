@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageTargetLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4703753774248933557
+  m_GuidHigh: 12099287763928581534
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4624632271401603100
+      m_GuidHigh: 9403815108113033353
+    m_SerializedTextureGuid:
+      m_GuidLow: 9564845565046208937
+      m_GuidHigh: 15830226346078631258
+    m_Size: {x: 0.08, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: 10001
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4718156627741223414
+      m_GuidHigh: 15245186107479182491
+    m_SerializedTextureGuid:
+      m_GuidLow: 11878201286280366945
+      m_GuidHigh: 7617828705109779384
+    m_Size: {x: 0.08, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: 10002
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5028771909038476368
+      m_GuidHigh: 1613597216400267199
+    m_SerializedTextureGuid:
+      m_GuidLow: 17621602621431784042
+      m_GuidHigh: 11674948709803496168
+    m_Size: {x: 0.08, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: 10003
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5215495882264881994
+      m_GuidHigh: 2080117439416826256
+    m_SerializedTextureGuid:
+      m_GuidLow: 16477783596241109129
+      m_GuidHigh: 12491569527246884617
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: ImageTarget_hangtian
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5156539058775683455
+      m_GuidHigh: 10751852486516055230
+    m_SerializedTextureGuid:
+      m_GuidLow: 11882855802444759420
+      m_GuidHigh: 1871924761426123467
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: ImageTarget_jianshen
+    m_Texture: {fileID: 0}
